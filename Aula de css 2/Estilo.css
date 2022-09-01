@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+}
+
+.border{
+width: 100px;
+height: 100px;
+margin: 10px;
+border-width: 20px;
+border-color: brown;
+
+}
+
+.bordaimagem1{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 25% round;
+}
+
+.bordaimagem2{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 50% round;
+}
+
+.bordaimagem3{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 40% round;
+}
+
+.bordaimagem4{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 100% round;
+}
+
+.bordaimagem5{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 25% stretch;
+}
+
+.bordaimagem6{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 20px solid transparent;
+    border-image: url(davinciandndn_widelg.png) 40% repeat;
+}
